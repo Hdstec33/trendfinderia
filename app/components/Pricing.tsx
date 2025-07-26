@@ -1,4 +1,4 @@
-import { Check, Star } from 'lucide-react'
+import { Check, Star, Shield } from 'lucide-react'
 
 const plans = [
   {
